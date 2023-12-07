@@ -1,4 +1,4 @@
-# GOLDEN NUGGET UNBLOCKED GAMES
+# PENGUIN'S UNBLOCKED GAMES
 ## 100s of unblocked games and websites!
 
 **Unblocked Games**
