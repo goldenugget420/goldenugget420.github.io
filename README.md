@@ -1,5 +1,11 @@
-# H1
-## H2
-### H3
-**bold text**
-*italicized text*
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Simple Website</title>
+</head>
+<body>
+    <h1>Welcome to My Simple Website!</h1>
+    <p>This is a paragraph of text on my webpage.</p>
+    <p>Here's another paragraph.</p>
+</body>
+</html>
