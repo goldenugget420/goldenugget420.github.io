@@ -7,4 +7,4 @@
 
 [Shell Shockers 🍳](https://eggcombat.com/)
 
-
+<embed src="https://eggcombat.com/">
